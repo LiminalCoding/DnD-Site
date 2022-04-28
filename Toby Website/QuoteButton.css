@@ -1,0 +1,52 @@
+
+
+
+.button {
+  font-family: 'Quicksand', cursive;
+  font-size: 30px;
+  padding: 12px;
+  border-radius: 12px;
+  background-image: url("blue.jpg");
+  color: White;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: silver;
+}
+
+}
+
+#quote {
+  font-family: 'Quicksand', cursive;
+  font-size: 30px;
+  color: black;
+}
+ul {
+  font-family: 'Quicksand', cursive;
+  font-size: 30px;
+  color: black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Quicksand', cursive;
+  font-size: 30px;
+  color: black;
+  background-image: url("paper.jpg");
+  background-color: #cccccc;
+}
+a {
+  font-family: 'Quicksand', cursive;
+  font-size: 25px;
+  color: White;
+}
+#blue {
+  font-family: 'Quicksand', cursive;
+  font-size: 30px;
+  color: White;
+  background-image: url("blue.jpg");
+}
